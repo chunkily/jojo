@@ -1,0 +1,3 @@
+# JoJo
+
+THIS MUST BE THE WORK OF AN ENEMY 「STAND UP」！！ ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ...
