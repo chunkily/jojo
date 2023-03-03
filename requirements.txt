@@ -1,2 +1,4 @@
+black
 django
 gunicorn
+psycopg2
