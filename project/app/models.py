@@ -41,3 +41,4 @@ class Holiday(models.Model):
 class Deleted(models.Model):
     deleted_on = models.DateTimeField()
     obj_json = models.JSONField()
+    obj_type = models.CharField(max_length=100)
